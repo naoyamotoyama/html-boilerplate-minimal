@@ -1,1 +1,1 @@
-# html-boilerplate-minimal
+## html-boilerplate-minimal
